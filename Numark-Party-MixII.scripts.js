@@ -14,10 +14,10 @@ NumarkPartyMix.jogSearchSensitivity = 1 / 2;
 // autoloop sizes, for available values see:
 // https://manual.mixxx.org/2.3/en/chapters/appendix/mixxx_controls.html#control-[ChannelN]-beatloop_X_toggle
 NumarkPartyMix.autoLoopSizes = [
+    "1",
     "4",
     "8",
-    "16",
-    "32"
+    "16"
 ];
 
 // dim all lights when inactive instead of turning them off
